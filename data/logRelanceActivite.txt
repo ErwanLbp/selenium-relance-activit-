@@ -1,0 +1,44 @@
+******************************* DEBUT 16/08/2016 15:19:27 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site http://172.17.54.110/colibri/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page ?page=activities&mode=summary_all
+Temps d'execution total : 14s
+******************************** FIN 16/08/2016 15:19:27 ********************************
+
+******************************* DEBUT 16/08/2016 15:20:22 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site http://172.17.54.110/colibri/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page ?page=activities&mode=summary_all
+Temps d'execution total : 15s
+******************************** FIN 16/08/2016 15:20:22 ********************************
+
+******************************* DEBUT 16/08/2016 15:20:45 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site http://172.17.54.110/colibri/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page ?page=activities&mode=summary_all
+Temps d'execution total : 16s
+******************************** FIN 16/08/2016 15:20:45 ********************************
+
+******************************* DEBUT 16/08/2016 15:28:20 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site http://172.17.54.110/colibri/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page ?page=activities&mode=summary_all
+	août 2016: seuil=50%
+	juil. 2016: seuil=50%
+Temps d'execution total : 14s
+******************************** FIN 16/08/2016 15:28:20 ********************************
+
+******************************* DEBUT 16/08/2016 15:36:50 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site http://172.17.54.110/colibri/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page ?page=activities&mode=summary_all
+	août 2016: seuil=50%
+	juil. 2016: seuil=50%
+Temps d'execution total : 47s
+******************************** FIN 16/08/2016 15:36:50 ********************************
+

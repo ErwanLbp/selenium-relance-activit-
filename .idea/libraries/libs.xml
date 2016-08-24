@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/librairies/ini4j/ini4j-0.5.4-jdk14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/librairies/ini4j/ini4j-0.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/librairies/selenium/selenium-java-2.53.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/librairies/javax.mail.jar!/" />
+      <root url="file://$PROJECT_DIR$/librairies/selenium/selenium" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/librairies/selenium/selenium" recursive="false" />
+  </library>
+</component>
